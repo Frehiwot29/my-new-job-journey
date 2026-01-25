@@ -2,3 +2,5 @@ One
 A number is starts by one 
 
 this is again to check
+
+Add Dark background mode UI
